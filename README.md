@@ -84,7 +84,7 @@
 ---
 
 <details>
-  <summary><b>GitHub Stats</b></summary>
+  <summary><b>GitHub Stats </b></summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sangammainali11&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
